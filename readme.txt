@@ -14,6 +14,7 @@ are hosted on other servers and you can pull automatically.
 there are pros and cons like it speed up your website. so this can be good if you want to edit these files 
 you're in and need it on your desktop or server to make changes. 
 
+
 Lec 03. Adding bootstrap to site. 
 you can add bootstrap to your site by downloading it and adding it to your site.
 you can also add it to your site by using cdn, npm or yarn.
@@ -24,4 +25,15 @@ what type of file you have and you can make adjustments as needed whereas these 
 and you can't make modifications in them.
 just copy links and paste in html file. 
 
-Lec 03. Creating Navaigation.
+
+Lec 04. Creating Navaigation.
+in navigation, we have logo on left side and text on right side. we will have <nav></nav> and give it classes 
+navbar. within bootstrap, it has all specific properties of navigation or predefined class that we can use. 
+bg-dark, it will give dark background. navbar-dark, it will allow to have white text on the dark color.
+
+
+Lec 05. Creating navaigation Part 02.
+added <a></a> and <button></button>. added properties in button. 
+
+Lec 06. Creating navigation Part 03. 
+most navigations are created using unordered list. 
