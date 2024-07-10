@@ -37,3 +37,10 @@ added <a></a> and <button></button>. added properties in button.
 
 Lec 06. Creating navigation Part 03. 
 most navigations are created using unordered list. 
+
+Lec 07. Creating containers
+bootstrap works on 12 count format to make it three columns we have to tell how many it need to span 
+to make three counts.
+col-lg-4. this divides it into 3 columns.
+
+col-sm-6. when we move on small mobile screen, it will span 6 columns. 
