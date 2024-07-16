@@ -50,3 +50,8 @@ rounded gives round border. rounded-circle gives circular shape egg type.
 img-fluid. it will make img responsive. when you make screen small, it will adjust accordingly.
 img-thumbnail. it will give border around image.
 
+Lec 09. Creating Footer 
+py-5, padding on y axis. bg-dark, for dark background.
+m-0, margin 0.  text-center. text-white, color will white.
+fixed-bottom. 
+
