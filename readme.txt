@@ -44,3 +44,9 @@ to make three counts.
 col-lg-4. this divides it into 3 columns.
 
 col-sm-6. when we move on small mobile screen, it will span 6 columns. 
+
+Lec 08. Styling Images
+rounded gives round border. rounded-circle gives circular shape egg type. 
+img-fluid. it will make img responsive. when you make screen small, it will adjust accordingly.
+img-thumbnail. it will give border around image.
+
