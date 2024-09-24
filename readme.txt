@@ -55,3 +55,7 @@ py-5, padding on y axis. bg-dark, for dark background.
 m-0, margin 0.  text-center. text-white, color will white.
 fixed-bottom. 
 
+Lec 10.Adding styled button.
+btn, when click on button, it shows pressed. btn btn-primary, btn btn-secondary, btn btn-success, btn btn-danger, btn btn-warning, btn btn-info, gives little style.
+
+
