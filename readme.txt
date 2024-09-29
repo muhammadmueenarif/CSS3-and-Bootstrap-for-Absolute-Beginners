@@ -69,3 +69,10 @@ we can use google maps api for this purpose. developers.google.com/maps. then cl
 then click on web api. google maps embedd api and select javascript api from left side bar. then there will bee 
 different options and i will click on below button create a map with marker. a example code would be given. 
 copy the code and change api key with your key and then map will be shown. put lat and lang for marker. 
+
+Lec 12. Image Carousal.
+When we open website, images show sliding on website, it is carousel. 
+Just goto google and search bootstrap carousel and copy the code and use it accordingly. you can use with icons
+and without icons and active class and many more. 
+
+
