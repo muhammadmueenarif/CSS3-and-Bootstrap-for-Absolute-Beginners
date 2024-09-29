@@ -75,4 +75,7 @@ When we open website, images show sliding on website, it is carousel.
 Just goto google and search bootstrap carousel and copy the code and use it accordingly. you can use with icons
 and without icons and active class and many more. 
 
+Lec 13. Contact Form 
+I have just added simple form but you can search on website and get any form you want.
+
 
