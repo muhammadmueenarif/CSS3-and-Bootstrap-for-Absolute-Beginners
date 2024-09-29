@@ -59,3 +59,13 @@ Lec 10.Adding styled button.
 btn, when click on button, it shows pressed. btn btn-primary, btn btn-secondary, btn btn-success, btn btn-danger, btn btn-warning, btn btn-info, gives little style.
 
 
+
+                                    Bootstrap Advanced
+
+From now onward, we will learn some advanced concepts. 
+
+Lec 11. Adding Google Maps
+we can use google maps api for this purpose. developers.google.com/maps. then click on get started. click documentation.
+then click on web api. google maps embedd api and select javascript api from left side bar. then there will bee 
+different options and i will click on below button create a map with marker. a example code would be given. 
+copy the code and change api key with your key and then map will be shown. put lat and lang for marker. 
